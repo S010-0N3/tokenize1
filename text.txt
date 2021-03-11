@@ -1,0 +1,7 @@
+En termes gÃ©nÃ©raux, la scence des donnÃ©es est l'extraction de conaissance d'ensembles de donnÃ©es.   
+ 
+Elle emploie des techniques et des thÃ©ories tirÃ©es de plusieurs autres domaines plus larges des mathÃ©matiques, la statistique principalement, la tÃ©orie de l'information et la technologie de l'information, notamment le traitement de signal, des modÃ¨les probabilistes, l'apprentissage automatique, l'apprentissage statistiqe, la programmation informatique, l'ingÃ©nierie de donnÃ©es, la reconnaissance de formes et l'apprentissage, la visualisation, l'analytique prophÃ©tique, la modÃ©lisation d'incertitude, le stokage de donnÃ©es, la compression de donnÃ©es et le calcul Ã  haute performance. 
+ 
+Les mÃ©thodes qui s'adaptent aux donnÃ©es de masse sont particuliÃ¨rement intÃ©ressantes dans la science des donnÃ©es, bien que la dicipline ne soit gÃ©nÃ©ralement pas considÃ©rÃ©e come limitÃ©e Ã  ces donnÃ©es.   
+ 
+Le premier objectif est de produire des mÃ©thodes automatisÃ©es, autant que possible de tri et d'analyse de donnÃ©es de masse et de sources plus ou moins complexes ou disjointes de donnÃ©es, afin d'en extraire des informations utiles ou potentiellement utiles. Source WikipÃ©dia
